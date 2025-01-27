@@ -19,7 +19,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraclebrain&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
 
-
+<!---
 <a href="https://github.com/oraclebrain/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oraclebrain&repo=github-readme-stats&theme=shadow_green" />
 </a>
@@ -35,7 +35,7 @@
 </p>
 <br/>
 
-
+<!----
   
 <p align="center">
   🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
@@ -53,7 +53,7 @@
 <a href="https://www.youtube.com/@OracleBrain" target="_blank"><img alt="" src="https://img.shields.io/badge/OracleBrain%20-000?style=for-the-badge&logo=youtube&logoColor=white" style="vertical-align:center" /></a>
 <a href="mailto:bewithu.aj@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 </p>
-
+----->
 <br />
 
 <p align="center"> 
